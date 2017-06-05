@@ -1,2 +1,2 @@
 # mootools
-mootools 1.4+ | 模块化、 
+mootools 1.4+ | 模块化
